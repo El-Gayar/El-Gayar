@@ -1,5 +1,5 @@
 - Hi, I’m Ahmed El-Gayar
 - I’m interested in Digital IC and VLSI 
-- I’m currently learning how to design IC using HDL and all the process from design to layout
+- I’m currently working as a teaching assistant in Digital IC track_ITI
 - I’m looking to collaborate on DIC field to reflect my experience, skills, and personal attributes including meeting work goals
-- You can contact me by E-mail: ahmed.hamdy.elgayar@gmail.com
+- You can contact me by E-mail: aelgayar20@gmail.com
